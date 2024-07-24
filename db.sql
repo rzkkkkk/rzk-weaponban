@@ -1,0 +1,1 @@
+ALTER TABLE players ADD COLUMN weapon_ban_end TIMESTAMP NULL;
